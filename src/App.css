@@ -1,0 +1,49 @@
+.mb-1 {
+  background-color: lightgray;
+  padding: 10px;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mb-2 {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: initial;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form {
+  display: auto;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+.form1 {
+  display: auto;
+  padding-top: 20px;
+  margin-bottom: 10px;
+
+
+}
+
+.form2 {
+  display: auto;
+  padding-top: 20px;
+  margin-bottom: 10px;
+
+}
+
+.form3 {
+  display: auto;
+  padding-top: 20px;
+  margin-bottom: 10px;
+
+}
+
+.mg-2 {
+  display: auto;
+  padding-left: 50px;
+  margin-left: 200px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
